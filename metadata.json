@@ -1,0 +1,6 @@
+{
+  "name": "Статистика FB-1",
+  "description": "Аналитическая панель и сбор статистики сотрудников из таблицы FB-1 с детализацией статусов, фильтрами дат отправки и выхода, графиками и мониторингом просрочек.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
